@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sash-firedrag
+- 👀 I’m interested in Software Development(UI/UX and WEB)
+- 🌱 I’m currently learning Computer Science and Design(CSD)
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me sashwathprakash725@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Eat-Sleep-Code-Repeat....
