@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sash-firedrag
 - 👀 I’m interested in Software Development(UI/UX and WEB)
-- 🌱 I’m currently learning Computer Science and Design(CSD)
+- 🌱 I'm currently pursuing a B.E. degree in Computer Science and Design at Kongu Engineering College.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me sashwathprakash725@gmail.com
 - 😄 Pronouns: He/Him
