@@ -2,6 +2,8 @@
 - 👀 I’m interested in Software Development(UI/UX and WEB)
 - 🌱 I'm currently pursuing a B.E. degree in Computer Science and Design at Kongu Engineering College.
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me sashwathprakash725@gmail.com
+- 📫 How to reach me
+- Gmail: sashwathprakash725@gmail.com
+- Linked-In : https://www.linkedin.com/in/sashwath-prakash-a44a1232b/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Eat-Sleep-Code-Repeat....
