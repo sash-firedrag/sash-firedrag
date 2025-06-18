@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sash-firedrag
+- 👋 Hi, I’m SASHWATH P
 - 👀 I’m interested in Software Development(UI/UX and WEB)
 - 🌱 I'm currently pursuing a B.E. degree in Computer Science and Design at Kongu Engineering College.
 - 💞️ I’m looking to collaborate on projects
